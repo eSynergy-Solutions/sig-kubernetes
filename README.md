@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://www.vhv.rs/dpng/d/241-2411949_kubernetes-logo-transparent-hd-png-download.png">
+  <img src="https://www.pikpng.com/pngl/m/47-479311_setting-up-a-cluster-locally-on-windows-kubernetes.png">
 </p>
 
 ## Objective
